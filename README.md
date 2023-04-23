@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h1 align="center">Hi 👋, I'm Jose Jordan</h1>
 <h3 align="center">A passionate Android Developer from Spain</h3>
 
