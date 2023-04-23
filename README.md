@@ -7,23 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/mundodigitalpro" target="blank"><img src="https://img.shields.io/twitter/follow/mundodigitalpro?logo=twitter&style=for-the-badge" alt="mundodigitalpro" /></a> </p>
 
-- 🔭 I’m currently working on **mundodigitalpro**
+- 🔭 I’m currently working as **Freelance**
 
-- 🌱 I’m currently learning **Java , Kotlin, Android**
-
-- 👯 I’m looking to collaborate on **mundodigitalpro**
-
-- 🤝 I’m looking for help with **mundodigitalpro**
+- 🌱 Always learning **Java , Kotlin, Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mundodigitalpro](https://github.com/mundodigitalpro)
 
 - 📝 I regularly write articles on [https://mundodigitalpro.github.io/](https://mundodigitalpro.github.io/)
 
-- 💬 Ask me about **Java , Android , MySQL, PHP , Python**
+- 💬 Ask me about **Kotlin , Jetpack Compose, Java , Android , MySQL, PHP , Python**
 
 - 📫 How to reach me **mundodigital.pro@gmail.com**
 
-- 📄 Know about my experiences [https://mundodigitalpro.github.io/](https://mundodigitalpro.github.io/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/josejordan1/)](https://www.linkedin.com/in/josejordan1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
